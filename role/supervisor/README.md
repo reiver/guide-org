@@ -9,9 +9,9 @@ The **role** of a **supervisor** is:
 * to enforce compliance,
 * to exert pressure,
 * to be the one who notices if someone doesn't work or doesn't do their job,
-* to report any problems with your supervisees to whomever you report to,
-* to try to correct any problems, and
-* to deal with any problems that cannot be corrected.
+* to report any problems with their supervisees to whomever the supervisor reports to,
+* to try to correct any problems with supervisees, and
+* to deal with any problems with a supervisee that cannot be corrected.
 
 For example —
 
@@ -21,6 +21,8 @@ For example —
 * do this task,
 * follow this rule,
 * fill out this form,
+* do this or you are fired,
+* you are fired,
 * etc.
 
 ## Specialization
@@ -43,3 +45,17 @@ Etc.
 The **supervisor** must be qualitatively _better_ at this specialization than anyone they are suppose to **supervise**.
 
 Also a **supervisor** should (if possible) be at least 20% older than anyone they suppose to **supervise**.
+
+## Daily Meeting
+
+A **supervisor** must have a **daily meeting** with whomever they are **supervising**.
+
+Likely this meeting will be in the form of a **team meeting**,
+where:
+
+* each person is asked if they finished each task they were asked to work on,
+* each person gives a status report on each task they were asked to work on,
+* if a task has been completed, if possible, it is review during the meeting,
+* if the task passed review, then a new task is assigned to that person,
+* if the task fails review, the person is asked to make the requested modifications.
+
