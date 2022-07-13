@@ -16,15 +16,15 @@ The **role** of a **supervisor** is:
 
 For example —
 
-* telling supervisees to, “do your job”,
-* telling supervisees to, “show up to this meeting”,
-* telling supervisees to, “show up on time”,
-* telling supervisees to, “don't slack off”,
-* telling supervisees to, “do this task”,
-* telling supervisees to, “follow this rule”,
-* telling supervisees to, “fill out this form”,
-* (with permission from whomever the supervisor reports to) telling supervisees to, “do this or you are fired”,
-* (with permission from whomever the supervisor reports to) telling supervisees, “you are fired”,
+* telling supervisees to, _“do your job”_,
+* telling supervisees to, _“show up to this meeting”_,
+* telling supervisees to, _“show up on time”_,
+* telling supervisees to, _“don't slack off”_,
+* telling supervisees to, _“do this task”_,
+* telling supervisees to, _“follow this rule”_,
+* telling supervisees to, _“fill out this form”_,
+* (with permission from whomever the supervisor reports to) telling supervisees to, _“do this or you are fired”_,
+* (with permission from whomever the supervisor reports to) telling supervisees, _“you are fired”_,
 * etc.
 
 ## Specialization
