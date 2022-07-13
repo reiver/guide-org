@@ -1,4 +1,4 @@
-# DIRECTOR ([Role Guide](../../README.md))
+# DIRECTOR ([Org Guide](../../README.md))
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
