@@ -1,4 +1,4 @@
-# SUPERVISOR ([Role Guide](../../README.md))
+# SUPERVISOR ([Org Guide](../../README.md))
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
