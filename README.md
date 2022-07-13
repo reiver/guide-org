@@ -55,11 +55,29 @@ For example, a technical director would be expected to do the administration, di
 
 ## Cross-Functional Team
 
-A typical **cross-functional** team will have:
+A typical **cross-functional** team will have the following who run the team:
 
-* back-end developer
-* front-end developer or mobile developer
-* product director
-* QA specialist
-* technical director
-* UX designer
+* [creative director](role/creative_director/README.md) (CD)
+* [product director](role/product_director/README.md) (PD)
+* [QA director](role/qa_director/README.md) (QAD)
+* [technical director](role/technical_director/README.md) (TD)
+* [UX director](role/ux_director/README.md) (UXD)
+
+Which, in terms of responsibilities can be understood as:
+
+| .              | eng | illus | ops | prod | rel | qa  | ux | work (eng) | work (illus) | work (ux) |
+|----------------|-----|-------|-----|------|-----|-----|----|------------|--------------|-----------|
+| administration | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
+| direction      | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
+| leadership     | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
+| management     | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
+| supervision    | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
+
+And will have the following that do the actual work:
+
+* [back-end developer](role/back-end_developer/README.md)
+* [front-end developer](role/front-end_developer/README.md) or [mobile developer](role/mobile_developer/README.md)
+* [illustrator](role/illustrator/README.md)
+* [QA specialist](role/qa_specialist/README.md)
+* [UX designer](role/ux_designer/README.md)
+
