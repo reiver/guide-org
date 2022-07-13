@@ -9,6 +9,8 @@ And in particular the responsibilities for each of these **roles**.
 
 ---
 
+## Type of Roles
+
 * [administrator](role/administrator/README.md)
 * [director](role/director/README.md)
 * [lead](role/lead/README.md)
