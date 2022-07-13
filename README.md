@@ -52,3 +52,14 @@ Likely this would NOT be (5×7=) 35 people.
 But some individuals would do more than one of these roles.
 
 For example, a technical director would be expected to do the administration, direction, leadership, management, and supervision for engineering, operations, release, and the work. I.e., the technical director would be expected to take on (5×3=) 15 of these roles.
+
+## Cross-Functional Team
+
+A typical **cross-functional** team will have:
+
+* back-end developer
+* front-end developer or mobile developer
+* product director
+* QA specialist
+* technical director
+* UX designer
