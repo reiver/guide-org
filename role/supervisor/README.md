@@ -8,23 +8,23 @@ The **role** of a **supervisor** is:
 
 * to enforce compliance,
 * to exert pressure,
-* to know what each person did and didn't work on each day,
-* to be the one who notices if someone doesn't work or doesn't do their job,
-* to report any problems with their supervisees to whomever the supervisor reports to,
+* to know what each supervisee did and didn't work on each day,
+* to be the one who notices if a supervisee doesn't work or doesn't do their job,
+* to report any problems with their a supervisee to whomever the supervisor reports to,
 * to try to correct any problems with supervisees, and
 * to deal with any problems with a supervisee that cannot be corrected.
 
 For example —
 
-* do your job,
-* show up to this meeting,
-* show up on time,
-* don't slack off,
-* do this task,
-* follow this rule,
-* fill out this form,
-* do this or you are fired,
-* you are fired,
+* telling supervisees to, “do your job”,
+* telling supervisees to, “show up to this meeting”,
+* telling supervisees to, “show up on time”,
+* telling supervisees to, “don't slack off”,
+* telling supervisees to, “do this task”,
+* telling supervisees to, “follow this rule”,
+* telling supervisees to, “fill out this form”,
+* (with permission from whomever the supervisor reports to) telling supervisees to, “do this or you are fired”,
+* (with permission from whomever the supervisor reports to) telling supervisees, “you are fired”,
 * etc.
 
 ## Specialization
