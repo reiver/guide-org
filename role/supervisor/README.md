@@ -59,3 +59,6 @@ where:
 * if the task passed review, then a new task is assigned to that person,
 * if the task fails review, the person is asked to make the requested modifications.
 
+## 1-on-1 Meeting
+
+A **supervisor** will have a monthly 1-on-1 meeting with each of their supervisees.
