@@ -1,4 +1,4 @@
-# LEAD ([Role Guide](../../README.md))
+# LEAD ([Org Guide](../../README.md))
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
