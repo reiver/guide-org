@@ -1,15 +1,18 @@
-# GUIDE: role
+# GUIDE: org
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
 ---
 
-This **guide** describes **roles** within a company.
-And in particular the responsibilities for each of these **roles**.
+This **guide** describes an **organization**.
+This includes **roles**, **teams**, **responsibilities**, etc.
 
 ---
 
 ## Type of Roles
+
+Some **roles** are easier to understand them if you understand them as a **type of role**.
+Here some **types of roles**:
 
 * [administrator](role/administrator/README.md)
 * [emissary](role/emissary/README.md)
@@ -18,11 +21,13 @@ And in particular the responsibilities for each of these **roles**.
 * [manager](role/manager/README.md)
 * [supervisor](role/supervisor/README.md)
 
+(These are in alphabetical order. Not order of importance.)
+
 ## Team
 
-The teams are **cross-functional** teams.
+The **teams** are **cross-functional** teams.
 
-The following roles exist on a **cross-functional** team.
+The following **roles** exist on a **cross-functional** team.
 
 A single person on the team might do more than one of these **roles**.
 
