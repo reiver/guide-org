@@ -16,9 +16,12 @@ The **role** of a **supervisor** is:
 For example —
 
 * do your job,
-* show up to meetings,
+* show up to this meeting,
 * don't slack off,
-* do this task.
+* do this task,
+* follow this rule,
+* fill out this form,
+* etc.
 
 ## Specialization
 
