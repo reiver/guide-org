@@ -39,4 +39,4 @@ Etc.
 
 The **supervisor** must be qualitatively _better_ at this specialization than anyone they are suppose to **supervise**.
 
-Also a **supervisor** needs to be at least 30% older than anyone they suppose to **supervisor**.
+Also a **supervisor** should (if possible) be at least 20% older than anyone they suppose to **supervise**.
