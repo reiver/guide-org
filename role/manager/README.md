@@ -1,4 +1,4 @@
-# MANAGER ([Role Guide](../../README.md))
+# MANAGER ([Org Guide](../../README.md))
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
