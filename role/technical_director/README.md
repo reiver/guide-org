@@ -39,7 +39,7 @@ Also a **technical director** needs to be at least 30% older than anyone they su
 
 A **technical director**'s first responsibility (in terms of importance) is to be a [supervisor](../../role/supervisor/README.md).
 
-Nothing else matters if you fail at this.
+Nothing else matters if they fail at this.
 
 ### Second Responsibility
 
