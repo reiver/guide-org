@@ -8,6 +8,7 @@ The **role** of a **supervisor** is:
 
 * to enforce compliance,
 * to exert pressure,
+* to know what each person did and didn't work on each day,
 * to be the one who notices if someone doesn't work or doesn't do their job,
 * to report any problems with their supervisees to whomever the supervisor reports to,
 * to try to correct any problems with supervisees, and
@@ -17,6 +18,7 @@ For example —
 
 * do your job,
 * show up to this meeting,
+* show up on time,
 * don't slack off,
 * do this task,
 * follow this rule,
@@ -61,4 +63,4 @@ where:
 
 ## 1-on-1 Meeting
 
-A **supervisor** will have a monthly 1-on-1 meeting with each of their supervisees.
+A **supervisor** must have a monthly 1-on-1 meeting with each of their supervisees.
