@@ -12,6 +12,7 @@ And in particular the responsibilities for each of these **roles**.
 ## Type of Roles
 
 * [administrator](role/administrator/README.md)
+* [emissary](role/emissary/README.md)
 * [director](role/director/README.md)
 * [lead](role/lead/README.md)
 * [manager](role/manager/README.md)
@@ -80,6 +81,13 @@ In terms of **work administration** (i.e., what some call _project management_) 
 | .                   | eng | illus | ops | prod | rel | qa  | ux  | 
 |---------------------|-----|-------|-----|------|-----|-----|-----|
 | work administration | TD  | CD    | TD  | PD   | TD  | QAD | UXD |
+
+In terms of being an **emissary** the following take on those responsibilities:
+
+| .        | eng | illus | ops | prod | rel | qa  | ux  | 
+|----------|-----|-------|-----|------|-----|-----|-----|
+| emissary | TD  | CD    | TD  | PD   | TD  | QAD | UXD |
+
 
 And will have the following that do the actual work:
 
