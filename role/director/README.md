@@ -11,7 +11,7 @@ The **role** of a **director** is:
 
 ## Specialization
 
-Someone whose **role** is to be a **lead** would have to have at least one specialization.
+Someone whose **role** is to be a **director** would have to have at least one specialization.
 Maybe _software development_.
 Maybe _UX design_.
 Maybe _QA_.
