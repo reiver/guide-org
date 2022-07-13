@@ -1,4 +1,4 @@
-# ADMINISTRATOR ([Role Guide](../../README.md))
+# ADMINISTRATOR ([Org Guide](../../README.md))
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 
