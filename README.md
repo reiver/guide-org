@@ -1,6 +1,11 @@
 # GUIDE: role
 
+by [Charles Iliya Krempeaux](http://changelog.ca/)
+
+---
+
 This **guide** describes **roles** within a company.
+And in particular the responsibilities for each of these **roles**.
 
 ---
 
