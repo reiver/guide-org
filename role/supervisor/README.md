@@ -18,7 +18,7 @@ For example —
 * do your job,
 * show up to meetings,
 * don't slack off,
-* 
+* do this task.
 
 ## Specialization
 
