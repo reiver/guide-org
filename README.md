@@ -63,15 +63,23 @@ A typical **cross-functional** team will have the following who run the team:
 * [technical director](role/technical_director/README.md) (TD)
 * [UX director](role/ux_director/README.md) (UXD)
 
+Each of these individuals are equal in terms of positional power.
+
 Which, in terms of responsibilities can be understood as:
 
-| .              | eng | illus | ops | prod | rel | qa  | ux | work (eng) | work (illus) | work (ux) |
-|----------------|-----|-------|-----|------|-----|-----|----|------------|--------------|-----------|
-| administration | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
-| direction      | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
-| leadership     | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
-| management     | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
-| supervision    | TD  | CD    | TD  | PD   | TD  | QAD | UD | TD         | CD           | UXD       |
+| .              | eng | illus | ops | prod | rel | qa  | ux  |
+|----------------|-----|-------|-----|------|-----|-----|-----|
+| administration | TD  | CD    | TD  | PD   | TD  | QAD | UXD |
+| direction      | TD  | CD    | TD  | PD   | TD  | QAD | UXD |
+| leadership     | TD  | CD    | TD  | PD   | TD  | QAD | UXD |
+| management     | TD  | CD    | TD  | PD   | TD  | QAD | UXD |
+| supervision    | TD  | CD    | TD  | PD   | TD  | QAD | UXD |
+
+In terms of **work administration** (i.e., what some call _project management_) the following take on those responsibilities:
+
+| .                   | eng | illus | ops | prod | rel | qa  | ux  | 
+|---------------------|-----|-------|-----|------|-----|-----|-----|
+| work administration | TD  | CD    | TD  | PD   | TD  | QAD | UXD |
 
 And will have the following that do the actual work:
 
