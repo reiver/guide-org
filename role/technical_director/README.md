@@ -43,7 +43,7 @@ Nothing else matters if they fail at this.
 
 ### Second Responsibility
 
-A **technical director**'s second responsibility (in terms of importance) is to be a [emissary](../../role/emissary/README.md).
+A **technical director**'s second responsibility (in terms of importance) is to be a [liaison](../../role/liaison/README.md).
 
 ### Third Responsibility
 
