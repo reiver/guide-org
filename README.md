@@ -18,6 +18,7 @@ Here some **types of roles**:
 * [emissary](role/emissary/README.md)
 * [director](role/director/README.md)
 * [lead](role/lead/README.md)
+* [liaison](role/liaison/README.md)
 * [manager](role/manager/README.md)
 * [supervisor](role/supervisor/README.md)
 
