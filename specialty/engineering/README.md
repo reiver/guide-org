@@ -57,7 +57,8 @@ From a **staff engineer Ⅵ** a software engineer can take a **administative** p
 
 From a **engineering manager Ⅲ** a software engineer can take on a **supervision** path by becoming a **technical director**.
 
-| Title                 | Description                               |
-|-----------------------|-------------------------------------------|
-| technical director Ⅰ | supervisor for engineers on a single team  |
-| technical director Ⅱ | supervisor for engineers on two teams      |
+| Title                 | Descriptio     n                                                                                          |
+|-----------------------|-----------------------------------------------------------------------------------------------------------|
+| technical director Ⅰ | also supervisor for engineers on a single team                                                             |
+| technical director Ⅱ | also supervisor for engineers on two teams                                                                 |
+| technical director Ⅲ | also can **help**, **mentor**, and **train** a **engineering manager Ⅲ** become a **technical director**. |
