@@ -10,3 +10,4 @@
 | senior Ⅱ     | can also do the **work breakdown** for an entire milestone.                                                |
 | staff Ⅰ      | can **help** & **mentor** others                                                                           |
 | staff Ⅱ      | can do the **training** for new hires as part of the new hire's **onboarding**                             |
+| staff Ⅲ      | can do **training** for existing people in company on an ongoing basis                                     |
