@@ -58,3 +58,4 @@ From a **engineering manager Ⅱ** a software engineer can take on a **supervisi
 | Title                 | Description                               |
 |-----------------------|-------------------------------------------|
 | technical director Ⅰ | supervisor for engineers on a single team  |
+| technical director Ⅱ | supervisor for engineers on two teams      |
