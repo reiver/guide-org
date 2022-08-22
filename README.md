@@ -20,9 +20,22 @@ Here some **types of roles**:
 * [lead](role/lead/README.md)
 * [liaison](role/liaison/README.md)
 * [manager](role/manager/README.md)
+* **specialist** — some call this an **individual contributor** (**IC**)
 * [supervisor](role/supervisor/README.md)
 
 (These are in alphabetical order. Not order of importance.)
+
+## Specialties
+
+The **specialties** that an individual can be a **specialist** of include:
+
+* engineering
+* operations
+* product
+* release
+* QA
+* UX
+* work — this sometimes gets put under the label of project-management.
 
 ## Team
 
