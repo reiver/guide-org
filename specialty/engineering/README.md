@@ -61,10 +61,11 @@ From a **engineering manager Ⅲ** a software engineer can take on a **supervisi
 |-----------------------|-----------------------------------------------------------------------------------------------------------|
 | technical director Ⅰ | also supervisor for engineers on a single team                                                             |
 | technical director Ⅱ | also supervisor for engineers on two teams                                                                 |
-| technical director Ⅲ | also can **help**, **mentor**, and **train** a **engineering manager Ⅲ** become a **technical director**. |
+| technical director Ⅲ | also **helps**, **mentors**, and **trains** a **engineering manager Ⅲ** become a **technical director**.  |
 
 From there a **technical director Ⅲ** can become a **director of engineering**.
 
-| Title                     | Description                                                                                               |
-|---------------------------|-----------------------------------------------------------------------------------------------------------|
-| director of engineering Ⅰ | also supervises the **technical directors** of multiple teams                                            |
+| Title                     | Description                                                                                                     |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------|
+| director of engineering Ⅰ | also supervises the **technical directors** of multiple teams                                                   |
+| director of engineering Ⅱ | also **helps**, **mentors**, and **trains** a **technical director Ⅲ** become a **director of engineering Ⅰ**. |
