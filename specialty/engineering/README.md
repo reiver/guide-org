@@ -22,38 +22,40 @@ This then gives us the definition of **software engineer**.
 ## Title Ladder
 
 In an organization, a **software engineer** is given **ranks**.
+Those **ranks** are a label use to represent a set of responsibilities.
 
-The following describes the **ranks**.
+The following describes these **ranks**.
 
 
 | Title                 | Description                                                                                                     |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|
 | junior engineer       | needs a significant amount of **hand holding**.                                                                 |
 | intermediate engineer | does _not_ need **hand holding** if tasks are broken down for them. cannot yet do their own **work breakdown**. |
-| senior engineer Ⅰ     | can do their own **work breakdown** for their own tasks, and can largely work independently.                    |
-| senior engineer Ⅱ     | can also do the **work breakdown** for an entire milestone.                                                     |
-| senior engineer Ⅲ     | can **help** & **mentor** one other engineer while still doing their own enginering work                        |
+| senior engineer Ⅰ     | does their own **work breakdown** for their own tasks, and can largely work independently.                      |
+| senior engineer Ⅱ     | also does the **work breakdown** for an entire milestone. which means they breakdown other people's tasks.      |
+| senior engineer Ⅲ     | also **helps** & **mentors** one other engineer while still doing their own enginering work.                    |
 
 From a **senior engineer Ⅲ** a software engineer can take a **leadership** path by becoming a **staff engineer**.
 
 | Title                 | Description                                                                                                     |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|
-| staff engineer Ⅰ      | can **help** & **mentor** many other engineers                                                                  |
-| staff engineer Ⅱ      | can conduct good code reviews for a team                                                                        |
-| staff engineer Ⅲ      | can themselves **train** new hire as part of the new hire's **onboarding**                                      |
-| staff engineer Ⅳ      | can create good **training** material themselves                                                                |
-| staff engineer Ⅴ      | can do **training** for existing people in company on an ongoing basis                                          |
-| staff engineer Ⅵ      | can do effective **1-on-1** meetings with individual on a team                                                  |
+| staff engineer Ⅰ      | also **helps** & **mentors** multiple engineers. might not be coding themselves.                                |
+| staff engineer Ⅱ      | also conducts good code reviews for multiple engineers in a team.                                               |
+| staff engineer Ⅲ      | also themselves **train** new hire as part of the new hire's **onboarding**.                                    |
+| staff engineer Ⅳ      | also creates good **training** material themselves.                                                             |
+| staff engineer Ⅴ      | also does **training** for existing people in company on an ongoing basis.                                      |
+| staff engineer Ⅵ      | also deso effective **1-on-1** meetings with individual on a single team.                                       |
 
 From a **staff engineer Ⅵ** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
-| Title                 | Description                        |
-|-----------------------|------------------------------------|
-| engineering manager Ⅰ | does effective project management  |
-| engineering manager Ⅱ | is an effective liason             |
+| Title                 | Description                              |
+|-----------------------|------------------------------------------|
+| engineering manager Ⅰ | also does effective project management. |
+| engineering manager Ⅱ | also is an effective liason.            |
+| engineering manager Ⅲ | also does retrospectives, etc.          |
 
 
-From a **engineering manager Ⅱ** a software engineer can take on a **supervision** path by becoming a **technical directory**.
+From a **engineering manager Ⅲ** a software engineer can take on a **supervision** path by becoming a **technical director**.
 
 | Title                 | Description                               |
 |-----------------------|-------------------------------------------|
