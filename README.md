@@ -29,7 +29,7 @@ Here some **types of roles**:
 
 The **specialties** that an individual can be a **specialist** of include:
 
-* engineering
+* [engineering](specialty/engineering/README.md)
 * operations
 * product
 * release
