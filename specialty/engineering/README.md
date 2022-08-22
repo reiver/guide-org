@@ -44,7 +44,7 @@ From a **senior engineer Ⅲ** a software engineer can take a **leadership** pat
 | staff engineer Ⅲ      | also themselves **train** new hire as part of the new hire's **onboarding**.                                    |
 | staff engineer Ⅳ      | also creates good **training** material themselves.                                                             |
 | staff engineer Ⅴ      | also does **training** for existing people in company on an ongoing basis.                                      |
-| staff engineer Ⅵ      | also deso effective **1-on-1** meetings with individual on a single team.                                       |
+| staff engineer Ⅵ      | also does effective **1-on-1** meetings with individual on a single team.                                       |
 
 From a **staff engineer Ⅵ** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
