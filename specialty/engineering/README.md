@@ -40,21 +40,21 @@ The following describes these **ranks**.
 
 From a **senior engineer Ⅲ** a software engineer can take a **leadership** path by becoming a **staff engineer**.
 
-| Title            | Description                                                                                                             |
-|------------------|-------------------------------------------------------------------------------------------------------------------------|
-| staff engineer Ⅰ | also **helps** & **mentors** multiple engineers. might not be coding themselves.                                       |
-| staff engineer Ⅱ | also **helps**, **mentors**, and **trains** a **senior engineer N** become a **senior engineer N+1**                   |
-| staff engineer Ⅲ | also conducts good **code reviews** for multiple engineers in a team. see: https://github.com/reiver/guide-code-review |
-| staff engineer Ⅳ | also **trains** new hires themselves as part of the new hire's **onboarding**.                                         |
-| staff engineer Ⅴ | also **trains** existing people in company on an ongoing basis.                                                        |
+| Title            | Level | Description                                                                                                             |
+|------------------|-------|-------------------------------------------------------------------------------------------------------------------------|
+| staff engineer   | Ⅰ | also **helps** & **mentors** multiple engineers. might not be coding themselves.                                       |
+| staff engineer   | Ⅱ | also **helps**, **mentors**, and **trains** a **senior engineer N** become a **senior engineer N+1**                   |
+| staff engineer   | Ⅲ | also conducts good **code reviews** for multiple engineers in a team. see: https://github.com/reiver/guide-code-review |
+| staff engineer   | Ⅳ | also **trains** new hires themselves as part of the new hire's **onboarding**.                                         |
+| staff engineer   | Ⅴ | also **trains** existing people in company on an ongoing basis.                                                        |
 
-| Title                   | Description                                                                                                |
-|--------------------------|-----------------------------------------------------------------------------------------------------------|
-| senior staff engineer Ⅰ | also **interviews** potential new hires                                                                   |
-| senior staff engineer Ⅱ | also does effective **1-on-1** meetings with individual on a single team.                                 |
-| senior staff engineer Ⅲ | also creates good **training** material themselves.                                                       |
-| senior staff engineer Ⅳ | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**.       |
-| senior staff engineer Ⅴ | also **helps**, **mentors**, and **trains** a **[senior] staff engineer N** become a **[senior] staff engineer N+1**. |
+| Title                   | Level | Description                                                                                                |
+|-------------------------|-------|------------------------------------------------------------------------------------------------------------|
+| senior staff engineer   | Ⅰ    | also **interviews** potential new hires                                                                   |
+| senior staff engineer   | Ⅱ    | also does effective **1-on-1** meetings with individual on a single team.                                 |
+| senior staff engineer   | Ⅲ    | also creates good **training** material themselves.                                                       |
+| senior staff engineer   | Ⅳ    | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**.       |
+| senior staff engineer   | Ⅴ    | also **helps**, **mentors**, and **trains** a **[senior] staff engineer N** become a **[senior] staff engineer N+1**. |
 
 From a **senior staff engineer Ⅴ** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
