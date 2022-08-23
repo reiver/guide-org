@@ -205,10 +205,19 @@ From there a **technical director** can take a **drection** path and become a **
 		</tr>
 		<tr>
 			<td>Ⅱ</td>
+			<td>also makes good technology choices for all the teams that they are responsible for.</td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td>also makes good process choices for all the teams that they are responsibible for.</td>
+		</tr>
+		<tr>
+			<td rowspan="2">senior director of engineering</td>
+			<td>Ⅰ</td>
 			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> a <strong>technical director</strong> become a <strong>director of engineering</strong>.</td>
 		</tr>
 			<tr>
-			<td>Ⅲ</td>
+			<td>Ⅱ</td>
 			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> a <strong>director of engineering N</strong> become a <strong>director of engineering</strong>.</td>
 		</tr>
 	</tbody>
