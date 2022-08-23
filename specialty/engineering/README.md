@@ -50,8 +50,8 @@ From a **senior engineer Ⅲ** a software engineer can take a **leadership** pat
 
 | Title                   | Description                                                                                                |
 |--------------------------|-----------------------------------------------------------------------------------------------------------|
-| senior staff engineer Ⅰ | also **interviews** potential new hires                                                                                |
-| senior staff engineer Ⅱ | also does effective **1-on-1** meetings with individual on a single team.                                              |
+| senior staff engineer Ⅰ | also **interviews** potential new hires                                                                   |
+| senior staff engineer Ⅱ | also does effective **1-on-1** meetings with individual on a single team.                                 |
 | senior staff engineer Ⅲ | also creates good **training** material themselves.                                                       |
 | senior staff engineer Ⅳ | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**.       |
 | senior staff engineer Ⅴ | also **helps**, **mentors**, and **trains** a **senior staff engineer N** become a **staff engineer N+1**. |
@@ -64,9 +64,10 @@ From a **senior staff engineer Ⅴ** a software engineer can take a **administat
 | engineering manager Ⅱ | also is an effective & reliable liason.                                                                        |
 | engineering manager Ⅲ | also does retrospectives, etc.                                                                                 |
 | engineering manager Ⅳ | also **helps**, **mentors**, and **trains** a **senior staff engineer Ⅲ** become a **engineering manager Ⅰ**. |
+| engineering manager Ⅴ | also **helps**, **mentors**, and **trains** an **engineer manager N** become a **engineering manager N+1**.    |
 
 
-From a **engineering manager Ⅳ** a software engineer can take on a **supervision** path by becoming a **technical director**.
+From a **engineering manager Ⅴ** a software engineer can take on a **supervision** path by becoming a **technical director**.
 
 | Title                 | Description                                                                                               |
 |-----------------------|-----------------------------------------------------------------------------------------------------------|
