@@ -122,14 +122,38 @@ From a **senior engineer** a software engineer can take a **leadership** path by
 	
 From a **senior staff engineer** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
-| Title                 | Level | Description                                                                                                     |
-|-----------------------|-------|-----------------------------------------------------------------------------------------------------------------|
-| engineering manager   | Ⅰ     | also does effective & reliable project management, steering meetings, kick-off meetings, etc.                  |
-| engineering manager   | Ⅱ     | also is an effective & reliable liason.                                                                        |
-| engineering manager   | Ⅲ     | also does retrospectives, etc.                                                                                 |
-| engineering manager   | Ⅳ     | also **helps**, **mentors**, and **trains** a **senior staff engineer** become a **engineering manager**.      |
-| engineering manager   | Ⅴ     | also **helps**, **mentors**, and **trains** an **engineer manager N** become a **engineering manager N+1**.    |
-
+<table>
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Level</th>
+			<th>Description</th>
+		</td>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="5">engineering manager</td>
+			<td>Ⅰ</td>
+			<td>also does effective & reliable project management, steering meetings, kick-off meetings, etc.</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td>also is an effective & reliable liason.</td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td>also does retrospectives, etc.</td>
+		</tr>
+		<tr>
+			<td>Ⅳ</td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> a <strong>senior staff engineer</strong> become a <strong>engineering manager</strong>.</td>
+		</tr>
+		<tr>
+			<td>Ⅴ</td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> an <strong>engineer manager N</strong> become a <strong>engineering manager N+1</strong><td>
+		</tr>
+	</tbody>
+</table>
 
 From a **engineering manager** a software engineer can take on a **supervision** path by becoming a **technical director**.
 
