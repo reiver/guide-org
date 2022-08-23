@@ -189,9 +189,27 @@ From a **engineering manager** a software engineer can take on a **supervision**
 
 From there a **technical director** can become a **director of engineering**.
 
-| Title                     | Level | Description                                                                                                         |
-|---------------------------|-------|---------------------------------------------------------------------------------------------------------------------|
-| director of engineering   | Ⅰ     | also supervises the **technical directors** of multiple teams                                                      |
-| director of engineering   | Ⅱ     | also **helps**, **mentors**, and **trains** a **technical director** become a **director of engineering**.         |
-| director of engineering   | Ⅲ     | also **helps**, **mentors**, and **trains** a **director of engineering N** become a **director of engineering N+1**. |
-
+<table>
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Level</th>
+			<th>Description</th>
+		</td>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="3">director of engineering</td>
+			<td>Ⅰ</td>
+			<td>also <strong>supervisor</strong> of <strong>technical directors</strong> of multiple team.</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> a <strong>technical director</strong> become a <strong>director of engineering</strong>.</td>
+		</tr>
+			<tr>
+			<td>Ⅲ</td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> a <strong>director of engineering N</strong> become a <strong>director of engineering</strong>.</td>
+		</tr>
+	</tbody>
+</table>
