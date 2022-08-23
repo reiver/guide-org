@@ -30,13 +30,13 @@ But instead a **rank** represents what they are expected to actually do, to be e
 The following describes these **ranks**.
 
 
-| Title                 | Description                                                                                                     |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|
-| junior engineer       | needs a significant amount of **hand holding**.                                                                 |
-| intermediate engineer | does _not_ need **hand holding** if tasks are broken down for them. cannot yet do their own **work breakdown**. |
-| senior engineer Ⅰ     | does their own **work breakdown** for their own tasks, and can largely work independently.                      |
-| senior engineer Ⅱ     | also does the **work breakdown** for an entire milestone. which means they breakdown other people's tasks.      |
-| senior engineer Ⅲ     | also **helps** & **mentors** one other engineer while still doing their own enginering work.                    |
+| Title                 | Level | Description                                                                                                     |
+|-----------------------|-------|-----------------------------------------------------------------------------------------------------------------|
+| junior engineer       |       | needs a significant amount of **hand holding**.                                                                 |
+| intermediate engineer |       | does _not_ need **hand holding** if tasks are broken down for them. cannot yet do their own **work breakdown**. |
+| senior engineer       | Ⅰ     | does their own **work breakdown** for their own tasks, and can largely work independently.                      |
+| senior engineer       | Ⅱ     |  also does the **work breakdown** for an entire milestone. which means they breakdown other people's tasks.      |
+| senior engineer       | Ⅲ     | also **helps** & **mentors** one other engineer while still doing their own enginering work.                    |
 
 From a **senior engineer Ⅲ** a software engineer can take a **leadership** path by becoming a **staff engineer**.
 
