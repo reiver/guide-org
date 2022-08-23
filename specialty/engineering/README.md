@@ -157,13 +157,34 @@ From a **senior staff engineer** a software engineer can take a **administative*
 
 From a **engineering manager** a software engineer can take on a **supervision** path by becoming a **technical director**.
 
-| Title                 | Level | Description                                                                                               |
-|-----------------------|-------|-----------------------------------------------------------------------------------------------------------|
-| technical director    | Ⅰ    | also supervisor for engineers on a single team                                                             |
-| technical director    | Ⅱ    | also supervisor for engineers on two teams                                                                 |
-| technical director    | Ⅲ    | also **helps**, **mentors**, and **trains** a **engineering manager** become a **technical director**.     |
-| technical director    | Ⅳ    | also **helps**, **mentors**, and **trains** a **technical director N** become a **technical director N+1**.    |
-
+<table>
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Level</th>
+			<th>Description</th>
+		</td>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="4">technical director</td>
+			<td>Ⅰ</td>
+			<td>also <strong>supervisor</strong> for engineers on a single team.</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td>also <strong>supervisor</strong> for engineers on two teams</td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td>also <strong>helps</strong> <strong>mentors</strong>, and <strong>trains</strong> a <strong>engineering manager</strong> become a <strong>technical director</strong>.</td>
+		</tr>
+		<tr>
+			<td>Ⅳ</td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> a <strong>technical director N</strong> become a <strong>technical director N+1</strong>.</td>
+		</tr>
+	</tbody>
+<table>
 
 From there a **technical director** can become a **director of engineering**.
 
