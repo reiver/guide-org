@@ -96,17 +96,30 @@ From a **senior engineer** a software engineer can take a **leadership** path by
 			<td>Ⅴ</td>
 			<td>also <strong>trains</strong> existing people in company on an ongoing basis.</td>
 		</tr>
+		<tr>
+			<td rowspan="5">senior staff engineer</td>
+			<td>Ⅰ</td>
+			<td>also <strong>interviews</strong> potential new hires</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td>also does effective <strong>1-on-1</strong> meetings with individuals on a single team.</td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td>also creates good <strong>training</strong> material themselves.</td>
+		</tr>
+		<tr>
+			<td>Ⅳ</td>
+			<td>also <strong>helps</strong> <strong>mentors</strong> and <strong>trains</strong> a <strong>senior engineer</strong> become a <strong>staff engineer</strong></td>
+		</tr>
+		<tr>
+			<td>Ⅴ</td>
+			<td>also <strong>helps</strong> <strong>mentors</strong> and <strong>trains</strong> a <strong>[senior] staff engineer N</strong> become a <strong>[senior] staff engineer N+1</strong></td>
+		</tr>
 	</tbody>
-</table>
-
-| Title                   | Level | Description                                                                                                |
-|-------------------------|-------|------------------------------------------------------------------------------------------------------------|
-| senior staff engineer   | Ⅰ    | also **interviews** potential new hires                                                                    |
-| senior staff engineer   | Ⅱ    | also does effective **1-on-1** meetings with individuals on a single team.                                 |
-| senior staff engineer   | Ⅲ    | also creates good **training** material themselves.                                                        |
-| senior staff engineer   | Ⅳ    | also **helps**, **mentors**, and **trains** a **senior engineer** become a **staff engineer**.             |
-| senior staff engineer   | Ⅴ    | also **helps**, **mentors**, and **trains** a **[senior] staff engineer N** become a **[senior] staff engineer N+1**. |
-
+<table>
+	
 From a **senior staff engineer** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
 | Title                 | Level | Description                                                                                                     |
