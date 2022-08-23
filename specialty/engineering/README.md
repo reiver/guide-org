@@ -35,7 +35,7 @@ The following describes these **ranks**.
 | junior engineer       |       | needs a significant amount of **hand holding**.                                                                 |
 | intermediate engineer |       | does _not_ need **hand holding** if tasks are broken down for them. cannot yet do their own **work breakdown**. |
 | senior engineer       | Ⅰ     | does their own **work breakdown** for their own tasks, and can largely work independently.                      |
-| senior engineer       | Ⅱ     |  also does the **work breakdown** for an entire milestone. which means they breakdown other people's tasks.      |
+| senior engineer       | Ⅱ     |  also does the **work breakdown** for an entire milestone. which means they breakdown other people's tasks.     |
 | senior engineer       | Ⅲ     | also **helps** & **mentors** one other engineer while still doing their own enginering work.                    |
 
 From a **senior engineer** a software engineer can take a **leadership** path by becoming a **staff engineer**.
@@ -53,7 +53,7 @@ From a **senior engineer** a software engineer can take a **leadership** path by
 | senior staff engineer   | Ⅰ    | also **interviews** potential new hires                                                                   |
 | senior staff engineer   | Ⅱ    | also does effective **1-on-1** meetings with individual on a single team.                                 |
 | senior staff engineer   | Ⅲ    | also creates good **training** material themselves.                                                       |
-| senior staff engineer   | Ⅳ    | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**.       |
+| senior staff engineer   | Ⅳ    | also **helps**, **mentors**, and **trains** a **senior engineer** become a **staff engineer**.            |
 | senior staff engineer   | Ⅴ    | also **helps**, **mentors**, and **trains** a **[senior] staff engineer N** become a **[senior] staff engineer N+1**. |
 
 From a **senior staff engineer** a software engineer can take a **administative** path by becoming a **engineering manager**.
@@ -63,7 +63,7 @@ From a **senior staff engineer** a software engineer can take a **administative*
 | engineering manager   | Ⅰ     | also does effective & reliable project management, steering meetings, kick-off meetings, etc.                  |
 | engineering manager   | Ⅱ     | also is an effective & reliable liason.                                                                        |
 | engineering manager   | Ⅲ     | also does retrospectives, etc.                                                                                 |
-| engineering manager   | Ⅳ     | also **helps**, **mentors**, and **trains** a **senior staff engineer Ⅲ** become a **engineering manager Ⅰ**. |
+| engineering manager   | Ⅳ     | also **helps**, **mentors**, and **trains** a **senior staff engineer** become a **engineering manager**.      |
 | engineering manager   | Ⅴ     | also **helps**, **mentors**, and **trains** an **engineer manager N** become a **engineering manager N+1**.    |
 
 
@@ -73,7 +73,7 @@ From a **engineering manager** a software engineer can take on a **supervision**
 |-----------------------|-------|-----------------------------------------------------------------------------------------------------------|
 | technical director    | Ⅰ    | also supervisor for engineers on a single team                                                             |
 | technical director    | Ⅱ    | also supervisor for engineers on two teams                                                                 |
-| technical director    | Ⅲ    | also **helps**, **mentors**, and **trains** a **engineering manager Ⅴ** become a **technical director Ⅰ**.  |
+| technical director    | Ⅲ    | also **helps**, **mentors**, and **trains** a **engineering manager** become a **technical director**.     |
 | technical director    | Ⅳ    | also **helps**, **mentors**, and **trains** a **technical director N** become a **technical director N+1**.    |
 
 
@@ -82,6 +82,6 @@ From there a **technical director** can become a **director of engineering**.
 | Title                     | Level | Description                                                                                                         |
 |---------------------------|-------|---------------------------------------------------------------------------------------------------------------------|
 | director of engineering   | Ⅰ     | also supervises the **technical directors** of multiple teams                                                      |
-| director of engineering   | Ⅱ     | also **helps**, **mentors**, and **trains** a **technical director Ⅳ** become a **director of engineering Ⅰ**.    |
+| director of engineering   | Ⅱ     | also **helps**, **mentors**, and **trains** a **technical director** become a **director of engineering**.         |
 | director of engineering   | Ⅲ     | also **helps**, **mentors**, and **trains** a **director of engineering N** become a **director of engineering N+1**. |
 
