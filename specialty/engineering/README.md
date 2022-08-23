@@ -54,7 +54,7 @@ From a **senior engineer Ⅲ** a software engineer can take a **leadership** pat
 | senior staff engineer Ⅱ | also does effective **1-on-1** meetings with individual on a single team.                                 |
 | senior staff engineer Ⅲ | also creates good **training** material themselves.                                                       |
 | senior staff engineer Ⅳ | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**.       |
-| senior staff engineer Ⅴ | also **helps**, **mentors**, and **trains** a **senior staff engineer N** become a **staff engineer N+1**. |
+| senior staff engineer Ⅴ | also **helps**, **mentors**, and **trains** a **[senior] staff engineer N** become a **[senior] staff engineer N+1**. |
 
 From a **senior staff engineer Ⅴ** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
@@ -73,11 +73,15 @@ From a **engineering manager Ⅴ** a software engineer can take on a **supervisi
 |-----------------------|-----------------------------------------------------------------------------------------------------------|
 | technical director Ⅰ | also supervisor for engineers on a single team                                                             |
 | technical director Ⅱ | also supervisor for engineers on two teams                                                                 |
-| technical director Ⅲ | also **helps**, **mentors**, and **trains** a **engineering manager Ⅳ** become a **technical director Ⅰ**.  |
+| technical director Ⅲ | also **helps**, **mentors**, and **trains** a **engineering manager Ⅴ** become a **technical director Ⅰ**.  |
+| technical director Ⅳ | also **helps**, **mentors**, and **trains** a **technical director N** become a **technical director N+1**.    |
+
 
 From there a **technical director Ⅲ** can become a **director of engineering**.
 
-| Title                     | Description                                                                                                     |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------|
-| director of engineering Ⅰ | also supervises the **technical directors** of multiple teams                                                   |
-| director of engineering Ⅱ | also **helps**, **mentors**, and **trains** a **technical director Ⅲ** become a **director of engineering Ⅰ**. |
+| Title                     | Description                                                                                                          |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------|
+| director of engineering Ⅰ | also supervises the **technical directors** of multiple teams                                                        |
+| director of engineering Ⅱ | also **helps**, **mentors**, and **trains** a **technical director Ⅳ** become a **director of engineering Ⅰ**.      |
+| director of engineering Ⅲ | also **helps**, **mentors**, and **trains** a **director of engineering N** become a **director of engineering N+1**. |
+
