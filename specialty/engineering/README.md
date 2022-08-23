@@ -40,15 +40,15 @@ The following describes these **ranks**.
 
 From a **senior engineer Ⅲ** a software engineer can take a **leadership** path by becoming a **staff engineer**.
 
-| Title                 | Description                                                                                                     |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------|
-| staff engineer Ⅰ      | also **helps** & **mentors** multiple engineers. might not be coding themselves.                                |
-| staff engineer Ⅱ      | also conducts good code reviews for multiple engineers in a team.                                               |
-| staff engineer Ⅲ      | also themselves **train** new hire as part of the new hire's **onboarding**.                                    |
-| staff engineer Ⅳ      | also creates good **training** material themselves.                                                             |
-| staff engineer Ⅴ      | also does **training** for existing people in company on an ongoing basis.                                      |
-| staff engineer Ⅵ      | also does **interviewing** of potential new hires                                                               |
-| staff engineer Ⅶ      | also does effective **1-on-1** meetings with individual on a single team.                                       |
+| Title                 | Description                                                                                                         |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------|
+| staff engineer Ⅰ      | also **helps** & **mentors** multiple engineers. might not be coding themselves.                                   |
+| staff engineer Ⅱ      | also conducts good code reviews for multiple engineers in a team. see: https://github.com/reiver/guide-code-review |
+| staff engineer Ⅲ      | also themselves **train** new hire as part of the new hire's **onboarding**.                                       |
+| staff engineer Ⅳ      | also creates good **training** material themselves.                                                                |
+| staff engineer Ⅴ      | also does **training** for existing people in company on an ongoing basis.                                         |
+| staff engineer Ⅵ      | also does **interviewing** of potential new hires                                                                  |
+| staff engineer Ⅶ      | also does effective **1-on-1** meetings with individual on a single team.                                          |
 
 From a **staff engineer Ⅶ** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
