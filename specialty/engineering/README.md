@@ -48,13 +48,13 @@ From a **senior engineer Ⅲ** a software engineer can take a **leadership** pat
 | staff engineer Ⅳ | also **trains** new hires themselves as part of the new hire's **onboarding**.                                         |
 | staff engineer Ⅴ | also **trains** existing people in company on an ongoing basis.                                                        |
 | staff engineer Ⅵ | also **interviews** potential new hires                                                                                |
-| staff engineer Ⅶ | also does effective **1-on-1** meetings with individual on a single team.                                              |
 
 | Title                   | Description                                                                                                |
 |--------------------------|-----------------------------------------------------------------------------------------------------------|
-| senior staff engineer Ⅰ | also creates good **training** material themselves.                                                       |
-| senior staff engineer Ⅱ | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**.       |
-| senior staff engineer Ⅲ | also **helps**, **mentors**, and **trains** a **senior staff engineer N** become a **staff engineer N+1**. |
+| senior staff engineer Ⅰ | also does effective **1-on-1** meetings with individual on a single team.                                              |
+| senior staff engineer Ⅱ | also creates good **training** material themselves.                                                       |
+| senior staff engineer Ⅲ | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**.       |
+| senior staff engineer Ⅳ | also **helps**, **mentors**, and **trains** a **senior staff engineer N** become a **staff engineer N+1**. |
 
 From a **senior staff engineer Ⅲ** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
