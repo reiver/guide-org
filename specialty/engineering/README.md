@@ -56,7 +56,7 @@ From a **senior engineer Ⅲ** a software engineer can take a **leadership** pat
 | senior staff engineer Ⅳ | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**.       |
 | senior staff engineer Ⅴ | also **helps**, **mentors**, and **trains** a **senior staff engineer N** become a **staff engineer N+1**. |
 
-From a **senior staff engineer Ⅲ** a software engineer can take a **administative** path by becoming a **engineering manager**.
+From a **senior staff engineer Ⅴ** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
 | Title                 | Description                                                                                                     |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|
