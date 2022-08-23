@@ -53,24 +53,25 @@ From a **senior engineer Ⅲ** a software engineer can take a **leadership** pat
 |--------------------------|-----------------------------------------------------------------------------------------------------|
 | senior staff engineer Ⅰ | also creates good **training** material themselves.                                                 |
 | senior staff engineer Ⅱ | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**. |
+| senior staff engineer Ⅲ | also **helps**, **mentors**, and **trains** a **senior engineer Ⅲ** become a **staff engineer Ⅰ**. |
 
 From a **senior staff engineer Ⅰ** a software engineer can take a **administative** path by becoming a **engineering manager**.
 
-| Title                 | Description                                                                                                   |
-|-----------------------|---------------------------------------------------------------------------------------------------------------|
-| engineering manager Ⅰ | also does effective project management.                                                                      |
-| engineering manager Ⅱ | also is an effective liason.                                                                                 |
-| engineering manager Ⅲ | also does retrospectives, etc.                                                                               |
-| engineering manager Ⅳ | also **helps**, **mentors**, and **trains** a **engineering manager Ⅲ** become a **engineering manager Ⅰ**. |
+| Title                 | Description                                                                                                     |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------|
+| engineering manager Ⅰ | also does effective project management.                                                                        |
+| engineering manager Ⅱ | also is an effective liason.                                                                                   |
+| engineering manager Ⅲ | also does retrospectives, etc.                                                                                 |
+| engineering manager Ⅳ | also **helps**, **mentors**, and **trains** a **senior staff engineer Ⅲ** become a **engineering manager Ⅰ**. |
 
 
-From a **engineering manager Ⅲ** a software engineer can take on a **supervision** path by becoming a **technical director**.
+From a **engineering manager Ⅳ** a software engineer can take on a **supervision** path by becoming a **technical director**.
 
 | Title                 | Description                                                                                               |
 |-----------------------|-----------------------------------------------------------------------------------------------------------|
 | technical director Ⅰ | also supervisor for engineers on a single team                                                             |
 | technical director Ⅱ | also supervisor for engineers on two teams                                                                 |
-| technical director Ⅲ | also **helps**, **mentors**, and **trains** a **engineering manager Ⅲ** become a **technical director**.  |
+| technical director Ⅲ | also **helps**, **mentors**, and **trains** a **engineering manager Ⅳ** become a **technical director Ⅰ**.  |
 
 From there a **technical director Ⅲ** can become a **director of engineering**.
 
