@@ -50,10 +50,10 @@ From a **senior engineer** a software engineer can take a **leadership** path by
 
 | Title                   | Level | Description                                                                                                |
 |-------------------------|-------|------------------------------------------------------------------------------------------------------------|
-| senior staff engineer   | Ⅰ    | also **interviews** potential new hires                                                                   |
-| senior staff engineer   | Ⅱ    | also does effective **1-on-1** meetings with individual on a single team.                                 |
-| senior staff engineer   | Ⅲ    | also creates good **training** material themselves.                                                       |
-| senior staff engineer   | Ⅳ    | also **helps**, **mentors**, and **trains** a **senior engineer** become a **staff engineer**.            |
+| senior staff engineer   | Ⅰ    | also **interviews** potential new hires                                                                    |
+| senior staff engineer   | Ⅱ    | also does effective **1-on-1** meetings with individuals on a single team.                                 |
+| senior staff engineer   | Ⅲ    | also creates good **training** material themselves.                                                        |
+| senior staff engineer   | Ⅳ    | also **helps**, **mentors**, and **trains** a **senior engineer** become a **staff engineer**.             |
 | senior staff engineer   | Ⅴ    | also **helps**, **mentors**, and **trains** a **[senior] staff engineer N** become a **[senior] staff engineer N+1**. |
 
 From a **senior staff engineer** a software engineer can take a **administative** path by becoming a **engineering manager**.
