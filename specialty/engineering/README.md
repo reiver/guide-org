@@ -60,7 +60,7 @@ From a **senior staff engineer Ⅲ** a software engineer can take a **administat
 
 | Title                 | Description                                                                                                     |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|
-| engineering manager Ⅰ | also does effective & reliable project management.                                                             |
+| engineering manager Ⅰ | also does effective & reliable project management, steering meetings, kick-off meetings, etc.                  |
 | engineering manager Ⅱ | also is an effective & reliable liason.                                                                        |
 | engineering manager Ⅲ | also does retrospectives, etc.                                                                                 |
 | engineering manager Ⅳ | also **helps**, **mentors**, and **trains** a **senior staff engineer Ⅲ** become a **engineering manager Ⅰ**. |
