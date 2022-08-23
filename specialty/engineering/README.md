@@ -46,8 +46,8 @@ From a **senior engineer Ⅲ** a software engineer can take a **leadership** pat
 | staff engineer Ⅱ      | also conducts good **code reviews** for multiple engineers in a team. see: https://github.com/reiver/guide-code-review |
 | staff engineer Ⅲ      | also **trains** new hires themselves as part of the new hire's **onboarding**.                                         |
 | staff engineer Ⅳ      | also creates good **training** material themselves.                                                                    |
-| staff engineer Ⅴ      | also does **training** for existing people in company on an ongoing basis.                                             |
-| staff engineer Ⅵ      | also does **interviewing** of potential new hires                                                                      |
+| staff engineer Ⅴ      | also **trains** existing people in company on an ongoing basis.                                                        |
+| staff engineer Ⅵ      | also **interviews** potential new hires                                                                                |
 | staff engineer Ⅶ      | also does effective **1-on-1** meetings with individual on a single team.                                              |
 
 From a **staff engineer Ⅶ** a software engineer can take a **administative** path by becoming a **engineering manager**.
