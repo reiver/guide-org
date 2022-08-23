@@ -132,7 +132,7 @@ From a **senior staff engineer** a software engineer can take a **administative*
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="5">engineering manager</td>
+			<td rowspan="3">engineering manager</td>
 			<td>Ⅰ</td>
 			<td>also does effective & reliable project management, steering meetings, kick-off meetings, etc.</td>
 		</tr>
@@ -145,11 +145,12 @@ From a **senior staff engineer** a software engineer can take a **administative*
 			<td>also does retrospectives, etc.</td>
 		</tr>
 		<tr>
-			<td>Ⅳ</td>
+			<td rowspan="2">senior engineering manager</td>
+			<td>Ⅰ</td>
 			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> a <strong>senior staff engineer</strong> become a <strong>engineering manager</strong>.</td>
 		</tr>
 		<tr>
-			<td>Ⅴ</td>
+			<td>Ⅱ</td>
 			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> an <strong>engineer manager N</strong> become a <strong>engineering manager N+1</strong><td>
 		</tr>
 	</tbody>
