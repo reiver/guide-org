@@ -187,7 +187,7 @@ From a **engineering manager** a software engineer can take on a **supervision**
 	</tbody>
 <table>
 
-From there a **technical director** can become a **director of engineering**.
+From there a **technical director** can take a **drection** path and become a **director of engineering**.
 
 <table>
 	<thead>
