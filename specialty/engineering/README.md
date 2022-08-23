@@ -77,7 +77,7 @@ From a **engineering manager Ⅴ** a software engineer can take on a **supervisi
 | technical director Ⅳ | also **helps**, **mentors**, and **trains** a **technical director N** become a **technical director N+1**.    |
 
 
-From there a **technical director Ⅲ** can become a **director of engineering**.
+From there a **technical director Ⅳ** can become a **director of engineering**.
 
 | Title                     | Description                                                                                                          |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------|
