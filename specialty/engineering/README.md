@@ -21,11 +21,11 @@ This then gives us the definition of **software engineer**.
 
 ## Title Ladder
 
-In an organization, a **software engineer** is given **ranks**.
-Those **ranks** are a label use to represent a set of responsibilities.
+In an organization, a **software engineer** is given **rank**.
+These **ranks** are a labels used to represent a set of responsibilities.
 
 Note that **ranks** usually do _not_ represent what an engineer is capable of.
-But instead a **rank** represents what they actually do, are effective at, and are realiable with.
+But instead a **rank** represents what they are expected to actually do, to be effective at, and to be realiable at.
 
 The following describes these **ranks**.
 
