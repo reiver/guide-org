@@ -66,13 +66,38 @@ The following describes these **ranks**.
 
 From a **senior engineer** a software engineer can take a **leadership** path by becoming a **staff engineer**.
 
-| Title            | Level | Description                                                                                                             |
-|------------------|-------|-------------------------------------------------------------------------------------------------------------------------|
-| staff engineer   | Ⅰ | also **helps** & **mentors** multiple engineers. might not be coding themselves.                                       |
-| staff engineer   | Ⅱ | also **helps**, **mentors**, and **trains** a **senior engineer N** become a **senior engineer N+1**                   |
-| staff engineer   | Ⅲ | also conducts good **code reviews** for multiple engineers in a team. see: https://github.com/reiver/guide-code-review |
-| staff engineer   | Ⅳ | also **trains** new hires themselves as part of the new hire's **onboarding**.                                         |
-| staff engineer   | Ⅴ | also **trains** existing people in company on an ongoing basis.                                                        |
+<table>
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Level</th>
+			<th>Description</th>
+		</td>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="5">staff engineer</td>
+			<td>Ⅰ</td>
+			<td>also <strong>helps</strong> & <strong>mentors</strong> multiple engineers. might not be coding themselves.</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> a <strong>senior engineer N</strong> become a <strong>senior engineer N+1</strong></td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td>also conducts good <strong>code reviews</strong> for multiple engineers in a team. see: https://github.com/reiver/guide-code-review</td>
+		</tr>
+		<tr>
+			<td>Ⅳ</td>
+			<td>also <strong>trains</strong> new hires themselves as part of the new hire's <strong>onboarding</strong>.</td>
+		</tr>
+		<tr>
+			<td>Ⅴ</td>
+			<td>also <strong>trains</strong> existing people in company on an ongoing basis.</td>
+		</tr>
+	</tbody>
+</table>
 
 | Title                   | Level | Description                                                                                                |
 |-------------------------|-------|------------------------------------------------------------------------------------------------------------|
