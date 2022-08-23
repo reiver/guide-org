@@ -29,14 +29,40 @@ But instead a **rank** represents what they are expected to actually do, to be e
 
 The following describes these **ranks**.
 
-
-| Title                 | Level | Description                                                                                                     |
-|-----------------------|-------|-----------------------------------------------------------------------------------------------------------------|
-| junior engineer       |       | needs a significant amount of **hand holding**.                                                                 |
-| intermediate engineer |       | does _not_ need **hand holding** if tasks are broken down for them. cannot yet do their own **work breakdown**. |
-| senior engineer       | Ⅰ     | does their own **work breakdown** for their own tasks, and can largely work independently.                      |
-| senior engineer       | Ⅱ     |  also does the **work breakdown** for an entire milestone. which means they breakdown other people's tasks.     |
-| senior engineer       | Ⅲ     | also **helps** & **mentors** one other engineer while still doing their own enginering work.                    |
+<table>
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Level</th>
+			<th>Description</th>
+		</td>
+	</thead>
+	<tbody>
+		<tr>
+			<td>junior engineer</td>
+			<td></td>
+			<td>needs a significant amount of <strong>hand holding</strong>.</td>
+		</tr>
+		<tr>
+			<td>intermediate engineer</td>
+			<td></td>
+			<td>does <em>not</em> need <strong>hand holding</strong> if tasks are broken down for them. cannot yet do their own <strong>work breakdown</strong>.</td>
+		</tr>
+		<tr>
+			<td rowspan="3">senior engineer</td>
+			<td>Ⅰ</td>
+			<td>does their own <strong>work breakdown</strong> for their own tasks, and can largely work independently.</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td>also does the <strong>work breakdown</strong> for an entire milestone. which means they breakdown other people's tasks.</td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td>also <strong>helps</strong> & <strong>mentors</strong> one other engineer while still doing their own enginering work.</td>
+		</tr>
+	</tbody>
+</table>
 
 From a **senior engineer** a software engineer can take a **leadership** path by becoming a **staff engineer**.
 
