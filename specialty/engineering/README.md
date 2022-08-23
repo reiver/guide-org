@@ -142,7 +142,7 @@ From a **senior staff engineer** a software engineer can take a **administative*
 		</tr>
 		<tr>
 			<td>Ⅲ</td>
-			<td>also does retrospectives, etc.</td>
+			<td>also does regular retrospectives, and takes action to items discovered in retrospective that are deemed to be problems to solve.</td>
 		</tr>
 		<tr>
 			<td rowspan="2">senior engineering manager</td>
