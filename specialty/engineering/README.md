@@ -128,4 +128,4 @@ Some call anything in the **line engineering** path a **individual contributor**
 See:
 
 * [line-engineering](../line-engineering/README.md)
-* [staff-engineering](../line-engineering/README.md)
+* [staff-engineering](../staff-engineering/README.md)
