@@ -72,21 +72,21 @@ Some call anything in the **line engineering** path a **individual contributor**
 <table>
 	<thead>
 		<tr>
-			<th>Path №1 (<strong>line</strong> focus)</td>
+			<th>Path №1 (<strong>line</strong> focus)</th>
 			<th>Path №2 (<strong>staff</strong> focus)</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>junior engineer<td>
+			<td>junior engineer</td>
 			<td> </td>
 		</tr>
 		<tr>
-			<td>intermediate engineer<td>
+			<td>intermediate engineer</td>
 			<td> </td>
 		</tr>
 		<tr>
-			<td>senior engineer<td>
+			<td>senior engineer</td>
 			<td> </td>
 		</tr>
 		<tr>
