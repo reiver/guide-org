@@ -78,34 +78,34 @@ Some call any in the **line engineering** path a **individual contributor** (**I
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="2">line engineer</td>
+			<td rowspan="3">line engineer</td>
 			<td>staff engineer</td>
 		</tr>
 		<tr>
 			<td>senior staff engineer</td>
 		</tr>
 		<tr>
-			<td rowspan="2">senior line engineer</td>
 			<td>engineering manager</td>
 		</tr>
 		<tr>
+			<td rowspan="3">senior line engineer</td>
 			<td>senior engineering manager</td>
 		</tr>
 		<tr>
-			<td rowspan="3">principal engineer</td>
 			<td>technical director</td>
 		</tr>
 		<tr>
 			<td>senior technical director</td>
 		</tr>
 		<tr>
+			<td rowspan="2">principal engineer</td>
 			<td>director of engineering</td>
 		</tr>
 		<tr>
-			<td rowspan="3">senior principal engineer</td>
 			<td>senior director engineering</td>
 		</tr>
 		<tr>
+			<td rowspan="2">senior principal engineer</td>
 			<td>vp of engineering</td>
 		</tr>
 		<tr>
