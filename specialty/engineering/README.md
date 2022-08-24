@@ -79,15 +79,14 @@ Some call anything in the **line engineering** path a **individual contributor**
 	<tbody>
 		<tr>
 			<td>junior engineer</td>
-			<td> </td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>intermediate engineer</td>
-			<td> </td>
+			<td></td>
 		</tr>
 		<tr>
-			<td>senior engineer</td>
-			<td> </td>
+			<td colspan="2" align="center">senior engineer</td>
 		</tr>
 		<tr>
 			<td rowspan="3">line engineer</td>
