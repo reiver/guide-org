@@ -64,6 +64,54 @@ The following describes these **ranks**.
 	</tbody>
 </table>
 
+From a **senior engineer** a software engineer can take 2 different paths.
+In classic language — one path that focuses on the **line**, and another path that focuses on the **staff**.
+
+<table>
+	<thead>
+		<tr>
+			<th>Path №1 (<strong>line</strong> focus)</td>
+			<th>Path №2 (<strong>staff</strong> focus)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="2">line engineer</td>
+			<td>staff engineer</td>
+		</tr>
+		<tr>
+			<td>senior staff engineer</td>
+		</tr>
+		<tr>
+			<td rowspan="2">senior line engineer</td>
+			<td>engineering manager</td>
+		</tr>
+		<tr>
+			<td>senior engineering manager</td>
+		</tr>
+		<tr>
+			<td rowspan="3">principal engineer</td>
+			<td>technical director</td>
+		</tr>
+		<tr>
+			<td>senior technical director</td>
+		</tr>
+		<tr>
+			<td>director of engineering</td>
+		</tr>
+		<tr>
+			<td rowspan="3">senior principal engineer</td>
+			<td>senior director engineering</td>
+		</tr>
+		<tr>
+			<td>vp of engineering</td>
+		</tr>
+		<tr>
+			<td>senior vp of engineering</td>
+		</tr>
+	</tbody>
+</table>
+
 From a **senior engineer** a software engineer can take a **leadership** path by becoming a **staff engineer**.
 
 <table>
