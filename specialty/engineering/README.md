@@ -67,7 +67,7 @@ The following describes these **ranks**.
 From a **senior engineer** a software engineer can take 2 different paths.
 In classic language — one path that focuses on the **line**, and another path that focuses on the **staff**.
 
-Some call any in the **line engineering** path a **individual contributor** (**IC**).
+Some call anything in the **line engineering** path a **individual contributor** (**IC**).
 
 <table>
 	<thead>
@@ -77,6 +77,18 @@ Some call any in the **line engineering** path a **individual contributor** (**I
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>junior engineer<td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>intermediate engineer<td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td>senior engineer<td>
+			<td> </td>
+		</tr>
 		<tr>
 			<td rowspan="3">line engineer</td>
 			<td>staff engineer</td>
