@@ -125,6 +125,11 @@ Some call anything in the **line engineering** path a **individual contributor**
 	</tbody>
 </table>
 
+See:
+
+* [line-engineering](../line-engineering/README.md)
+* [staff-engineering](../line-engineering/README.md)
+
 From a **senior engineer** a software engineer can take a **leadership** path by becoming a **staff engineer**.
 
 <table>
