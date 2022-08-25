@@ -45,17 +45,17 @@ From a **senior engineer** a software engineer can take a **architecture** path 
 		<tr>
 			<td>architecture engineer</td>
 			<td>Ⅰ</td>
-			<td>.</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>architecture engineer</td>
 			<td>Ⅱ</td>
-			<td>.</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>architecture engineer</td>
 			<td>Ⅲ</td>
-			<td>.</td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -74,18 +74,59 @@ From a **architecture engineer** a software engineer can take an **R&D** path by
 		<tr>
 			<td>r&d engineer</td>
 			<td>Ⅰ</td>
-			<td>.</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>r&d engineer</td>
 			<td>Ⅱ</td>
-			<td>.</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>r&d engineer</td>
 			<td>Ⅲ</td>
-			<td>.</td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
+
+From a **r&d engineer** a software engineer can become a **principal engineer**.
+
+<table>
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Level</th>
+			<th>Description</th>
+		</td>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="3">principal engineer</td>
+			<td>Ⅰ</td>
+			<td>.</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td rowspan="3">senior principal engineer</td>
+			<td>Ⅲ</td>
+			<td>.</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 
