@@ -43,19 +43,34 @@ From a **senior engineer** a software engineer can take a **architecture** path 
 	</thead>
 	<tbody>
 		<tr>
-			<td>architecture engineer</td>
+			<td rowspan="4">architecture engineer</td>
 			<td>Ⅰ</td>
-			<td>also turns the result of product <strong>research & discovery</strong> into a partially-ordered set of <strong>milestones</strong>.</td>
+			<td>also turns the result of product <strong>research & discovery</strong> & UI/UX designs into a partially-ordered set of <strong>milestones</strong>, but needs a significant amount of <strong>hand holding</strong>.</td>
 		</tr>
 		<tr>
-			<td>architecture engineer</td>
 			<td>Ⅱ</td>
-			<td></td>
+			<td>also turns the result of product <strong>research & discovery</strong> & UI/UX designs into a partially-ordered set of <strong>milestones</strong>, but does <em>not</em> need hand holding.</td>
 		</tr>
 		<tr>
-			<td>architecture engineer</td>
 			<td>Ⅲ</td>
-			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> an <strong>architecture engineer N</strong> become a <strong>architecture engineerr N+1</strong>.</td>
+			<td>also communicates their architecture (expressed as <strong>milestones</strong>) well in formal & informal settings.</td>
+		</tr>
+		<tr>
+			<td>Ⅳ</td>
+			<td>is involved in the development of their architecture (expressed as <strong>milestones</strong>) well in formal & informal settings.</td>
+		</tr>
+		<tr>
+			<td rowspan="3">senior architecture engineer</td>
+			<td>Ⅰ</td>
+			<td>is <strong>proactive</strong> with their <strong>communication</strong> (with respect to their architecture (expressed as milestones))</td>
+		</tr>
+		<tr>
+			<td>Ⅱ</td>
+			<td>is <strong>proactive</strong> with their <strong>help</strong> (with respect to their architecture (expressed as milestones))</td>
+		</tr>
+		<tr>
+			<td>Ⅲ</td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> an <strong>[senoir] architecture engineer N</strong> become a <strong>[senior] architecture engineerr N+1</strong>.</td>
 		</tr>
 	</tbody>
 </table>
