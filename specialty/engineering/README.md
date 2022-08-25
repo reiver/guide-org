@@ -109,10 +109,11 @@ Some call anything in the **line engineering** path a **individual contributor**
 			<td>senior technical director</td>
 		</tr>
 		<tr>
-			<td rowspan="2">r&d engineer</td>
+			<td>r&d engineer</td>
 			<td>director of engineering</td>
 		</tr>
 		<tr>
+			<td>senior r&d engineer</td>
 			<td>senior director engineering</td>
 		</tr>
 		<tr>
