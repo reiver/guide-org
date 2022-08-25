@@ -57,7 +57,7 @@ From a **senior engineer** a software engineer can take a **architecture** path 
 		</tr>
 		<tr>
 			<td>Ⅳ</td>
-			<td>is involved in the development of their architecture (expressed as <strong>milestones</strong>) well in formal & informal settings.</td>
+			<td>is involved in the development of their architecture (expressed as <strong>milestones</strong>).</td>
 		</tr>
 		<tr>
 			<td rowspan="3">senior architecture engineer</td>
