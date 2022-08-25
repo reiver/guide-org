@@ -89,7 +89,7 @@ Some call anything in the **line engineering** path a **individual contributor**
 			<td colspan="2" align="center">senior engineer</td>
 		</tr>
 		<tr>
-			<td rowspan="6">architecture engineer</td>
+			<td rowspan="3">architecture engineer</td>
 			<td>staff engineer</td>
 		</tr>
 		<tr>
@@ -99,6 +99,7 @@ Some call anything in the **line engineering** path a **individual contributor**
 			<td>engineering manager</td>
 		</tr>
 		<tr>
+			<td rowspan="3">senior architecture engineer</td>
 			<td>senior engineering manager</td>
 		</tr>
 		<tr>
