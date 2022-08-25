@@ -125,7 +125,7 @@ Some call anything in the **line engineering** path a **individual contributor**
 	</tbody>
 </table>
 
-See:
+Choose your path:
 
 * [line-engineering](../line-engineering/README.md)
 * [staff-engineering](../staff-engineering/README.md)
