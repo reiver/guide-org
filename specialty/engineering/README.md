@@ -89,7 +89,7 @@ Some call anything in the **line engineering** path a **individual contributor**
 			<td colspan="2" align="center">senior engineer</td>
 		</tr>
 		<tr>
-			<td rowspan="3">architecture engineer</td>
+			<td rowspan="6">architecture engineer</td>
 			<td>staff engineer</td>
 		</tr>
 		<tr>
@@ -99,7 +99,6 @@ Some call anything in the **line engineering** path a **individual contributor**
 			<td>engineering manager</td>
 		</tr>
 		<tr>
-			<td rowspan="3">r&d engineer</td>
 			<td>senior engineering manager</td>
 		</tr>
 		<tr>
@@ -109,17 +108,18 @@ Some call anything in the **line engineering** path a **individual contributor**
 			<td>senior technical director</td>
 		</tr>
 		<tr>
-			<td rowspan="2">principal engineer</td>
+			<td rowspan="2">r&d engineer</td>
 			<td>director of engineering</td>
 		</tr>
 		<tr>
 			<td>senior director engineering</td>
 		</tr>
 		<tr>
-			<td rowspan="2">senior principal engineer</td>
+			<td>principal engineer</td>
 			<td>vp of engineering</td>
 		</tr>
 		<tr>
+			<td>senior principal engineer</td>
 			<td>senior vp of engineering</td>
 		</tr>
 	</tbody>
