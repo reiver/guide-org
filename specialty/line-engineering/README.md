@@ -91,7 +91,7 @@ From a **architecture engineer** a software engineer can take a **research & dev
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan="3">r&d engineer</td>
+			<td rowspan="2">r&d engineer</td>
 			<td>Ⅰ</td>
 			<td>also does product <strong>research & discovery</strong> and creates good documentation of their research and its results, but needs a significant amount of <strong>hand holding</strong>.</td>
 		</tr>
@@ -100,7 +100,8 @@ From a **architecture engineer** a software engineer can take a **research & dev
 			<td>also does product <strong>research & discovery</strong> and creates good documentation of their research and its results, but does <em>not</em> need a significant amount of hand holding.</td>
 		</tr>
 		<tr>
-			<td>Ⅲ</td>
+			<td>senior r&d engineer</td>
+			<td></td>
 			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> an <strong>r&d engineer N</strong> become a <strong>r&d engineerr N+1</strong>.</td>
 		</tr>
 	</tbody>
