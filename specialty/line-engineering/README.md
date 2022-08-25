@@ -45,7 +45,7 @@ From a **senior engineer** a software engineer can take a **architecture** path 
 		<tr>
 			<td>architecture engineer</td>
 			<td>Ⅰ</td>
-			<td>also turns the result of product **research & discovery** and turns it into a partially ordered set of <strong>milestones</strong>.</td>
+			<td>also turns the result of product <strong>research & discovery</strong> into a partially-ordered set of <strong>milestones</strong>.</td>
 		</tr>
 		<tr>
 			<td>architecture engineer</td>
@@ -55,7 +55,7 @@ From a **senior engineer** a software engineer can take a **architecture** path 
 		<tr>
 			<td>architecture engineer</td>
 			<td>Ⅲ</td>
-			<td></td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> an <strong>architecture engineer N</strong> become a <strong>architecture engineerr N+1</strong>.</td>
 		</tr>
 	</tbody>
 </table>
@@ -84,7 +84,7 @@ From a **architecture engineer** a software engineer can take a **research & dev
 		<tr>
 			<td>r&d engineer</td>
 			<td>Ⅲ</td>
-			<td></td>
+			<td>also <strong>helps</strong>, <strong>mentors</strong>, and <strong>trains</strong> an <strong>r&d engineer N</strong> become a <strong>r&d engineerr N+1</strong>.</td>
 		</tr>
 	</tbody>
 </table>
