@@ -72,8 +72,8 @@ Some call anything in the **line engineering** path a **individual contributor**
 <table>
 	<thead>
 		<tr>
-			<th>Path №1 (<strong>line</strong> focus)</th>
-			<th>Path №2 (<strong>staff</strong> focus)</th>
+			<th><a href="../line-engineering/README.md">Path №1 (<strong>line</strong> focus)</a></th>
+			<th><a href="../staff-engineering/README.md">Path №2 (<strong>staff</strong> focus)</a></th>
 		</tr>
 	</thead>
 	<tbody>
