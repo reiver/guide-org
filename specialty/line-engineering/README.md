@@ -45,7 +45,7 @@ From a **senior engineer** a software engineer can take a **architecture** path 
 		<tr>
 			<td>architecture engineer</td>
 			<td>Ⅰ</td>
-			<td></td>
+			<td>also turns the result of product **research & discovery** and turns it into a partially ordered set of <strong>milestones</strong>.</td>
 		</tr>
 		<tr>
 			<td>architecture engineer</td>
@@ -60,7 +60,7 @@ From a **senior engineer** a software engineer can take a **architecture** path 
 	</tbody>
 </table>
 
-From a **architecture engineer** a software engineer can take an **R&D** path by becoming a **r&d engineer**.
+From a **architecture engineer** a software engineer can take a **research & development** (**R&D**) path by becoming a **r&d engineer**.
 
 <table>
 	<thead>
@@ -74,7 +74,7 @@ From a **architecture engineer** a software engineer can take an **R&D** path by
 		<tr>
 			<td>r&d engineer</td>
 			<td>Ⅰ</td>
-			<td></td>
+			<td>also does product <strong>research & discovery</strong> and creates good documentation of their research and its results.</td>
 		</tr>
 		<tr>
 			<td>r&d engineer</td>
