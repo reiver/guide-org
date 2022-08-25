@@ -49,7 +49,7 @@ The following describes these **ranks**.
 			<td>does <em>not</em> need <strong>hand holding</strong> if tasks are broken down for them. cannot yet do their own <strong>work breakdown</strong>.</td>
 		</tr>
 		<tr>
-			<td rowspan="5">senior engineer</td>
+			<td rowspan="6">senior engineer</td>
 			<td>Ⅰ</td>
 			<td>does their own <strong>work breakdown</strong> for their own tasks, and can largely work independently.</td>
 		</tr>
@@ -59,14 +59,18 @@ The following describes these **ranks**.
 		</tr>
 		<tr>
 			<td>Ⅲ</td>
-			<td>also is <strong>proactive</strong> about working with QA.</td>
+			<td>also is <strong>proactive</strong>, effective, and reliable about working with QA.</td>
 		</tr>
 		<tr>
 			<td>Ⅳ</td>
-			<td>also is <strong>proactive</strong> about working with those releasing their #### to the various deployment environments (including production).</td>
+			<td>also is <strong>proactive</strong>, effective, and reliable about working with those releasing their what they worked on to the various deployment environments (including production).</td>
 		</tr>
 		<tr>
 			<td>Ⅴ</td>
+			<td>also is <strong>proactive</strong>, effective, and reliable about addressing emergencies on the production deployment environment.</td>
+		</tr>
+		<tr>
+			<td>Ⅵ</td>
 			<td>also <strong>helps</strong> & <strong>mentors</strong> one other engineer while still doing their own enginering work.</td>
 		</tr>
 	</tbody>
