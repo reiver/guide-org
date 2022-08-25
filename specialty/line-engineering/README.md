@@ -103,7 +103,7 @@ From a **r&d engineer** a software engineer can become a **principal engineer**.
 		<tr>
 			<td rowspan="3">principal engineer</td>
 			<td>Ⅰ</td>
-			<td>.</td>
+			<td>also must have at least 15 years experience.</td>
 		</tr>
 		<tr>
 			<td>Ⅱ</td>
@@ -116,7 +116,7 @@ From a **r&d engineer** a software engineer can become a **principal engineer**.
 		<tr>
 			<td rowspan="3">senior principal engineer</td>
 			<td>Ⅲ</td>
-			<td>.</td>
+			<td>also must have at least 30 years experience.</td>
 		</tr>
 		<tr>
 			<td>Ⅱ</td>
