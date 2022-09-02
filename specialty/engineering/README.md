@@ -143,6 +143,7 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 				I.e., they are are now working from a formal <strong>sub-task</strong> specification (likely in some type of TODO-list or issue-tracking software).
 			</td>
 		</tr>
+		<tr><td colspan="3">&nbsp;</td></td>
 		<tr>
 			<td rowspan="7">intermediate engineer</td>
 			<td>Ⅰ</td>
@@ -171,6 +172,7 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 			<td>Ⅶ</td>
 			<td>also does <em>not</em> <strong>hand holding</strong> to be <strong>effective</strong> & <strong>reliable</strong> at <strong>breaking down</strong> a <strong>task</strong> into a <strong>step-by-step list of sub-tasks</strong>.</td>
 		</tr>
+		<tr><td colspan="3">&nbsp;</td></td>
 		<tr>
 			<td rowspan="6">senior engineer</td>
 			<td>Ⅰ</td>
