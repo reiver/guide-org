@@ -135,15 +135,15 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 		<tr>
 			<td rowspan="6">senior engineer</td>
 			<td>Ⅰ</td>
-			<td>does their own <strong>work breakdown</strong> for their own tasks, and can largely work independently, if given a task.</td>
+			<td>does their own <strong>work breakdown</strong> for their own <strong>tasks</strong>. is <strong>effective</strong> at completing <strong>tasks</strong>, and thus can largely work independently on a <strong>task</strong>.</td>
 		</tr>
 		<tr>
 			<td>Ⅱ</td>
-			<td>also does the <strong>work breakdown</strong> for an entire milestone. which means they breakdown other people's tasks.</td>
+			<td>also does the <strong>work breakdown</strong> for an entire <strong>milestone</strong>. which means they <strong>breakdown</strong> can create <strong>tasks</strong> for others.</td>
 		</tr>
 		<tr>
 			<td>Ⅲ</td>
-			<td>also is <strong>proactive</strong>, effective, and reliable about working with QA.</td>
+			<td>also is <strong>proactive</strong>, <strong>effective</strong>, and <strong>reliable</strong> about working with <strong>QA</strong>.</td>
 		</tr>
 		<tr>
 			<td>Ⅳ</td>
