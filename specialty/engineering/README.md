@@ -144,7 +144,7 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4">intermediate engineer</td>
+			<td rowspan="6">intermediate engineer</td>
 			<td>Ⅰ</td>
 			<td>does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> when working on a single <strong>sub-task</strong> from a <strong>step-by-step list of sub-tasks</strong>.</td>
 		</tr>
@@ -159,6 +159,14 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 		<tr>
 			<td>Ⅳ</td>
 			<td>does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> & <strong>reliable</strong> when independently working on a single <strong>task</strong>, that <em>includes</em> a <strong>step-by-step list of sub-tasks</strong>.</td>
+		</tr>
+		<tr>
+			<td>Ⅴ</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Ⅵ</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td rowspan="6">senior engineer</td>
