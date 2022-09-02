@@ -116,7 +116,7 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 <table>
 	<thead>
 		<tr>
-			<th>Title</th>
+			<th>Rank</th>
 			<th>Level</th>
 			<th>Description</th>
 		</td>
