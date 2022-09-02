@@ -15,8 +15,8 @@ Some **roles** are easier to understand them if you understand them as a **type 
 Here some **types of roles**:
 
 * [administrator](role/administrator/README.md)
-* [emissary](role/emissary/README.md)
 * [director](role/director/README.md)
+* [emissary](role/emissary/README.md)
 * [lead](role/lead/README.md)
 * [liaison](role/liaison/README.md)
 * [manager](role/manager/README.md)
