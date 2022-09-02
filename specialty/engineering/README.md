@@ -162,8 +162,18 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 
 ## Line-Engineering versus Staff Engineering
 
+The labels “**line**” versus “**staff**” seem to come from the context of militaries.
+
+Someone who is focused on the **line** is out there fighting, and doing the _real_ work.
+
+Someone who is focused on the **staff** is, _not_ out there fighting, is _not_ doing the _real_ work, but is instead focuses on the _staff_.
+
+These labels have been adopted into **software engineering**.
+
+## Above Senior Software Engineer
+
 From a **senior engineer** a software engineer can take 2 different paths.
-In classic language — one path that focuses on the **line**, and another path that focuses on the **staff**.
+In classic language — one path tfocuses on the **line**, and another path focuses on the **staff**.
 
 Some call anything in the **line engineering** path a **individual contributor** (**IC**).
 
