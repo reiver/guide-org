@@ -154,26 +154,22 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 		</tr>
 		<tr>
 			<td>Ⅲ</td>
-			<td>does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> when independently working on a the whole <strong>task</strong>, that <em>includes</em> a <strong>step-by-step list of sub-tasks</strong>.</td>
+			<td>also does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> when independently working on a the whole <strong>task</strong>, that <em>includes</em> a <strong>step-by-step list of sub-tasks</strong>.</td>
 		</tr>
 		<tr>
 			<td>Ⅳ</td>
-			<td>does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> & <strong>reliable</strong> when independently working on a single <strong>task</strong>, that <em>includes</em> a <strong>step-by-step list of sub-tasks</strong>.</td>
+			<td>also does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> & <strong>reliable</strong> when independently working on a single <strong>task</strong>, that <em>includes</em> a <strong>step-by-step list of sub-tasks</strong>.</td>
 		</tr>
 		<tr>
 			<td>Ⅴ</td>
-			<td>
-				also. with <strong>hand holding</strong>, can and does <strong>break down</strong> of a <strong>task</strong> into a <strong>step-by-step list of sub-tasks</strong>.
-				<br /><br />		
-				I.e., does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> & <strong>reliable</strong> when independently working on a single <strong>task</strong> (that does <strong>NOT</strong> include a <strong>step-by-step list of sub-tasks</strong>).
-		</tr>
+			<td>also, with <strong>hand holding</strong>, can and does <strong>break down</strong> of a <strong>task</strong> into a <strong>step-by-step list of sub-tasks</strong>.</tr>
 		<tr>
 			<td>Ⅵ</td>
-			<td></td>
+			<td>also does <em>not</em> <strong>hand holding</strong> to be <strong>effective</strong> at <strong>breaking down</strong> a <strong>task</strong> into a <strong>step-by-step list of sub-tasks</strong>.</td>
 		</tr>
 		<tr>
 			<td>Ⅶ</td>
-			<td></td>
+			<td>also does <em>not</em> <strong>hand holding</strong> to be <strong>effective</strong> & <strong>reliable</strong> at <strong>breaking down</strong> a <strong>task</strong> into a <strong>step-by-step list of sub-tasks</strong>.</td>
 		</tr>
 		<tr>
 			<td rowspan="6">senior engineer</td>
