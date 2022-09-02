@@ -35,7 +35,7 @@ These **ranks** are labels used to represent a set of responsibilities.
 Note that **ranks** usually do _not_ represent what an engineer is capable of.
 But instead a **rank** represents what they are expected to actually do, to be effective at, and to be realiable at.
 
-From a high-level, the **ranks** for **software engineers** (without showing the **sub-ranks**) are:
+From a high-level, the **ranks** for **software engineers** (without showing the **levels** withing a **rank**) are:
 
 <table>
 	<thead>
@@ -95,9 +95,9 @@ From a high-level, the **ranks** for **software engineers** (without showing the
 	</tbody>
 </table>
 
-## Sub-Ranks
+## Levels
 
-Each of these **ranks** for **software engineers** also has **sub-ranks**.
+Each of these **ranks** for **software engineers** also has **Levels**.
 
 For example —
 senior software engineer Ⅰ,
@@ -111,7 +111,7 @@ senior software engineer Ⅵ.
 ## Title Ladder
 
 
-If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) **sub-ranks** too:
+If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) **levels** too:
 
 <table>
 	<thead>
