@@ -133,16 +133,16 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 		</tr>
 		<tr>
 			<td>Ⅱ</td>
-			<td>needs a significant amount of <strong>hand holding</strong> but is <strong>effective</strong> when is given that significant <strong>hand holding</strong>.</td>
+			<td>is <strong>effective</strong> when is given a significant <strong>hand holding</strong>.</td>
 		</tr>
 		<tr>
 			<td>Ⅲ</td>
-			<td>needs a significant amount of <strong>hand holding</strong> but is <strong>effective</strong> & <strong>reliable</strong> when given that significant <strong>hand holding</strong>.</td>
+			<td>is <strong>effective</strong> & <strong>reliable</strong> when given a significant <strong>hand holding</strong>.</td>
 		</tr>
 		<tr>
 			<td>Ⅳ</td>
 			<td>
-				needs a significant amount of <strong>hand holding</strong> but is <strong>effective</strong> & <strong>reliable</strong> when working on a single <strong>sub-task</strong> from a <strong>step-by-step list of sub-tasks</strong> when given that significant <strong>hand holding</strong>.
+				is <strong>effective</strong> & <strong>reliable</strong> at working on a single <strong>sub-task</strong> from a <strong>step-by-step list of sub-tasks</strong> when given a significant <strong>hand holding</strong>.
 				<br /><br />
 				I.e., they are are now working from a formal <strong>sub-task</strong> specification (likely in some type of TODO-list or issue-tracking software).
 			</td>
