@@ -97,7 +97,7 @@ From a high-level, the **ranks** for **software engineers** (without showing the
 
 ## Levels
 
-Each of these **ranks** for **software engineers** also has **Levels**.
+Each of these **ranks** for **software engineers** also has **levels**.
 
 For example —
 senior software engineer Ⅰ,
@@ -107,6 +107,8 @@ senior software engineer Ⅳ,
 senior software engineer Ⅴ,
 senior software engineer Ⅵ.
 
+The **levels** specify how competent the engineer is at that role;
+and specify _what_ the behaviors are desired from the **engineer**.
 
 ## Title Ladder
 
