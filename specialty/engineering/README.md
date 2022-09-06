@@ -142,7 +142,7 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 		<tr>
 			<td>Ⅳ</td>
 			<td>
-				is <strong>effective</strong> & <strong>reliable</strong> at working on a single <strong>sub-task</strong> from a <strong>step-by-step list of sub-tasks</strong> when given a significant <strong>hand holding</strong>.
+				is <strong>effective</strong> & <strong>reliable</strong> at working on a single <strong>sub-task</strong> from a <strong>task</strong> broken down (by someone else) into a <strong>step-by-step list of sub-tasks</strong> when given a significant <strong>hand holding</strong>.
 				<br /><br />
 				I.e., they are are now working from a formal <strong>sub-task</strong> specification (likely in some type of TODO-list or issue-tracking software).
 			</td>
@@ -151,15 +151,30 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 		<tr>
 			<td rowspan="7">intermediate engineer</td>
 			<td>Ⅰ</td>
-			<td>does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> when working on a single <strong>sub-task</strong> from a <strong>step-by-step list of sub-tasks</strong>.</td>
+			<td>
+				with <em>no</em> <em>hand holding</em>, is <strong>effective</strong> at working on a single <strong>sub-task</strong> from a <strong>task</strong> broken down (by someone else) into a <strong>step-by-step list of sub-tasks</strong>.
+				<br /><br />
+				I.e., they are now working independently on a single <strong>sub-task</strong>,
+				but not yet able to independently handle the whole task yet.
+			</td>
 		</tr>
 		<tr>
 			<td>Ⅱ</td>
-			<td>does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> & <strong>reliable</strong> when working on a single <strong>sub-task</strong> from a <strong>step-by-step list of sub-tasks</strong>.</td>
+			<td>
+				with <em>no</em> <em>hand holding</em>, is <strong>effective</strong> & <strong>reliable</strong> at working on a single <strong>sub-task</strong> from a <strong>task</strong> broken down (by someone else) into a <strong>step-by-step list of sub-tasks</strong>.
+				<br /><br />
+				I.e., they are now working independently on a single <strong>sub-task</strong>,
+				but not yet able to independently handle the whole task yet.
+			</td>
 		</tr>
 		<tr>
 			<td>Ⅲ</td>
-			<td>also does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> when independently working on a single <strong>task</strong>, that <em>includes</em> a <strong>step-by-step list of sub-tasks</strong>.</td>
+			<td>
+				with <em>no</em> <em>hand holding</em>, is <strong>effective</strong> at working on <em>all</em> the <strong>sub-tasks</strong> from a <strong>task</strong> broken down (by someone else) into a <strong>step-by-step list of sub-tasks</strong>.
+				<br /><br />
+				I.e., they are now working independently on all the <strong>sub-tasks</strong>,
+				and thus are able to independently handle the whole <strong>task</strong> (if someone else breaks it down into sub-tasks for them).
+			</td>
 		</tr>
 		<tr>
 			<td>Ⅳ</td>
