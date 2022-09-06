@@ -57,7 +57,7 @@ From a high-level, the **ranks** for **software engineers** (without showing the
 			<td colspan="2" align="center">senior engineer</td>
 		</tr>
 		<tr>
-			<td rowspan="3" align="right">architecture engineer</td>
+			<td rowspan="3" align="right">engineering architect</td>
 			<td>staff engineer</td>
 		</tr>
 		<tr>
@@ -67,7 +67,7 @@ From a high-level, the **ranks** for **software engineers** (without showing the
 			<td>engineering manager</td>
 		</tr>
 		<tr>
-			<td rowspan="3" align="right">senior architecture engineer</td>
+			<td rowspan="3" align="right">senior engineering architect</td>
 			<td>senior engineering manager</td>
 		</tr>
 		<tr>
@@ -108,7 +108,9 @@ senior software engineer Ⅴ,
 senior software engineer Ⅵ.
 
 The **levels** specify how competent the engineer is at that role;
-and specify _what_ the behaviors are desired from the **engineer**.
+and specifies _what_ behaviors are desired from an **engineer** to increase their competence.
+
+We will express this in the form of a **title ladder**.
 
 ## Title Ladder
 
