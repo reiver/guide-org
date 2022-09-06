@@ -33,7 +33,7 @@ staff software engineer, principal software engineer, and others.
 These **ranks** are labels used to represent a set of responsibilities.
 
 ⚠️ Note that **ranks** usually do _not_ represent what an engineer is capable of.
-But instead a **rank** represents what they are expected to actually do, to be effective at, and to be realiable at.
+But instead a **rank** represents what an engineer is expected to actually do, to be effective at, and to be realiable at.
 
 From a high-level, the **ranks** for **software engineers** (without showing the **levels** withing a **rank**) are:
 
