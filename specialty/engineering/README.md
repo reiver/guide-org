@@ -155,7 +155,7 @@ If we just focus on the first 3 **ranks**, we can look at their (**ranks** and) 
 		</tr>
 		<tr>
 			<td>Ⅲ</td>
-			<td>also does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> when independently working on a the whole <strong>task</strong>, that <em>includes</em> a <strong>step-by-step list of sub-tasks</strong>.</td>
+			<td>also does <em>not</em> need <strong>hand holding</strong> to be <strong>effective</strong> when independently working on a single <strong>task</strong>, that <em>includes</em> a <strong>step-by-step list of sub-tasks</strong>.</td>
 		</tr>
 		<tr>
 			<td>Ⅳ</td>
