@@ -189,3 +189,27 @@ From there a **technical director** can take a **drection** path and become a **
 		</tr>
 	</tbody>
 </table>
+
+.
+
+<table>
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Level</th>
+			<th>Description</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>VP of Engineering</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>SVP of Engineering</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
